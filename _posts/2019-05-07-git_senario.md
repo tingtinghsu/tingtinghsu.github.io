@@ -1,5 +1,5 @@
 ---
-title:  "[Day30] Git 小劇場"
+title:  "Git 小劇場"
 preview: "Git senario"
 permalink: "/articles/2019-05-07-git_senario"
 date:   2019-05-07 09:56:00

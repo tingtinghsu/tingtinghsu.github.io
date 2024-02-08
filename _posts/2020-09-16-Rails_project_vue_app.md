@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 3 在Rails專案產生Vue app"
+title:  "第12屆鐵人賽Day 3 在Rails專案產生Vue app"
 preview: ""
 permalink: "/articles/2020-09-16"
 date:   2020-09-16 09:56:00

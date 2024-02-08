@@ -1,5 +1,5 @@
 ---
-title:  "[Day24] JS: javascript blackjack game"
+title:  "javascript blackjack game"
 preview: "javascript OOP"
 permalink: "/articles/2019-03-26-js_blackjack"
 date:   2019-03-26 09:56:00

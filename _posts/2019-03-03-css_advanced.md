@@ -1,5 +1,5 @@
 ---
-title:  "[Day04] CSS: 進階排版語法"
+title:  "css: 進階排版語法"
 preview: "css advanced"
 permalink: "/articles/2019-03-03-css_advanced"
 date:   2019-03-03 10:55:00

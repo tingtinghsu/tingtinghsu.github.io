@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 4 Vue的單向資料流: 鬍子語法"
+title:  "第12屆鐵人賽Day 4 Vue的單向資料流: 鬍子語法"
 preview: ""
 permalink: "/articles/2020-09-17"
 date:   2020-09-17 09:56:00

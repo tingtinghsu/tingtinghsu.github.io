@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 17 Rails專案開發 - 第1個Model : 註冊, 登入 UI修改"
+title:  "第12屆鐵人賽Day 17 Rails專案開發 - 第1個Model : 註冊, 登入 UI修改"
 preview: ""
 permalink: "/articles/2020-09-30"
 date:   2020-09-29 10:00:00

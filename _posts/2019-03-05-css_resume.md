@@ -1,5 +1,5 @@
 ---
-title:  "[Day06] CSS: 個人簡歷"
+title:  "css: 個人簡歷"
 preview: "css resume"
 permalink: "/articles/2019-03-05-css_resume"
 date:   2019-03-05 10:55:00

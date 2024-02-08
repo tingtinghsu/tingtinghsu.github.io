@@ -1,5 +1,5 @@
 ---
-title:  "[Day26] Git branch 分支"
+title:  "Git branch 分支"
 preview: "Git branch"
 permalink: "/articles/2019-04-25-git_branch"
 date:   2019-04-25 09:56:00

@@ -1,5 +1,5 @@
 ---
-title:  "[Day08] CSS: flexbox排版"
+title:  "css: flexbox排版"
 preview: "css flexbox"
 permalink: "/articles/2019-03-08-css_flexbox"
 date:   2019-03-08 11:55:00

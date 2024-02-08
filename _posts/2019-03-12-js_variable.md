@@ -1,5 +1,5 @@
 ---
-title:  "[Day13] JS: javascript 變數"
+title:  "javascript 變數"
 preview: "css flexbox"
 permalink: "/articles/2019-03-12-js_variable"
 date:   2019-03-12 10:56:00

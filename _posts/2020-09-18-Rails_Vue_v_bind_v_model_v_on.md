@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 5 v-bind, v-model, v-on"
+title:  "第12屆鐵人賽Day 5 v-bind, v-model, v-on"
 preview: ""
 permalink: "/articles/2020-09-18"
 date:   2020-09-17 09:56:00

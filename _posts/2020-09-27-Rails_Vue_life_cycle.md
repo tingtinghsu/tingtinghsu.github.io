@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 14 Vue instance的生命週期"
+title:  "第12屆鐵人賽Day 14 Vue instance的生命週期"
 preview: ""
 permalink: "/articles/2020-09-27"
 date:   2020-09-23 09:59:00

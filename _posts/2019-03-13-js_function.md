@@ -1,5 +1,5 @@
 ---
-title:  "[Day14] JS: javascript 函數"
+title:  "javascript 函數"
 preview: "css flexbox"
 permalink: "/articles/2019-03-13-js_function"
 date:   2019-03-13 10:56:00

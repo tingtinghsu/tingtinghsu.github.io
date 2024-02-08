@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 18 Rails專案開發 - 第2個Model: 建立看板 Kanban"
+title:  "第12屆鐵人賽Day 18 Rails專案開發 - 第2個Model: 建立看板 Kanban"
 preview: ""
 permalink: "/articles/2020-10-01"
 date:   2020-09-30 10:00:00

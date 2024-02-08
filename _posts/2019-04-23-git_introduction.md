@@ -1,5 +1,5 @@
 ---
-title:  "[Day25] Git 簡介"
+title:  "[Git 簡介"
 preview: "Git introduction"
 permalink: "/articles/2019-04-23-git_introduction"
 date:   2019-04-23 09:56:00

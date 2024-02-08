@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 28 Rails專案開發 - 刪除ticket (使用vuex狀態管理)"
+title:  "第12屆鐵人賽Day 28 Rails專案開發 - 刪除ticket (使用vuex狀態管理)"
 preview: ""
 permalink: "/articles/2020-10-11"
 date:   2020-10-09 10:00:00

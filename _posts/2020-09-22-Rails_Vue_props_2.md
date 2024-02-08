@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 9 Vue元件裡的props屬性(2)"
+title:  "第12屆鐵人賽Day 9 Vue元件裡的props屬性(2)"
 preview: ""
 permalink: "/articles/2020-09-22"
 date:   2020-09-20 09:58:00

@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 12 跨多層的Vue元件資料傳遞: event bus"
+title:  "第12屆鐵人賽Day 12 跨多層的Vue元件資料傳遞: event bus"
 preview: ""
 permalink: "/articles/2020-09-25"
 date:   2020-09-22 09:58:00

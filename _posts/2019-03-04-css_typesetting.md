@@ -1,5 +1,5 @@
 ---
-title:  "[Day05] CSS: 新聞排版"
+title:  "css: 新聞排版"
 preview: "css typesetting"
 permalink: "/articles/2019-03-04-css_typesetting"
 date:   2019-03-04 10:55:00

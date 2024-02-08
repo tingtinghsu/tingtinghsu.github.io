@@ -1,5 +1,5 @@
 ---
-title:  "[Day09] CSS: flexbox遊戲-青蛙攻略"
+title:  "css: flexbox遊戲-青蛙攻略"
 preview: "css flexbox floggy"
 permalink: "/articles/2019-03-10-css_flexbox_floggy"
 date:   2019-03-10 10:55:00

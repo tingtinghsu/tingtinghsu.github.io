@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 21 Rails專案開發 - Vue draggable套件拖拉column"
+title:  "第12屆鐵人賽Day 21 Rails專案開發 - Vue draggable套件拖拉column"
 preview: ""
 permalink: "/articles/2020-10-04"
 date:   2020-10-03 10:00:00

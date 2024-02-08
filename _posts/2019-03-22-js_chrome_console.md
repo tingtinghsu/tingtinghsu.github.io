@@ -1,5 +1,5 @@
 ---
-title:  "[Day20] JS: javascript 使用Chrome Console撰寫"
+title:  "javascript 使用Chrome Console撰寫"
 preview: "javascript OOP"
 permalink: "/articles/2019-03-22-js_chrome_console"
 date:   2019-03-22 09:56:00

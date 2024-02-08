@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 20 Rails專案開發 - 建立Vue元件: Ticket component"
+title:  "第12屆鐵人賽Day 20 Rails專案開發 - 建立Vue元件: Ticket component"
 preview: ""
 permalink: "/articles/2020-10-03"
 date:   2020-09-30 10:00:00

@@ -1,5 +1,5 @@
 ---
-title:  "[Day12] JS: javascript 簡介"
+title:  "javascript 簡介"
 preview: "javascript introduction"
 permalink: "/articles/2019-03-11-js_introduction"
 date:   2019-03-11 11:56:00

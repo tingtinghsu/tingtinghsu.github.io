@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 19 Rails專案開發 - 建立Vue元件: Column component"
+title:  "第12屆鐵人賽Day 19 Rails專案開發 - 建立Vue元件: Column component"
 preview: ""
 permalink: "/articles/2020-10-02"
 date:   2020-09-30 10:00:00

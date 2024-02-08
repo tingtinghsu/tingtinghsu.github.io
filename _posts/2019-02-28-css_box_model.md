@@ -1,5 +1,5 @@
 ---
-title:  "[Day03] CSS: Box Model"
+title:  "css: Box Model"
 preview: "css box model"
 permalink: "/articles/2019-02-28-css_box_model"
 date:   2019-02-28 10:55:00

@@ -1,5 +1,5 @@
 ---
-title:  "[Day27] Git reset 與 Git tag 標籤 : 回到過去的commit"
+title:  "Git reset 與 Git tag 標籤 : 回到過去的commit"
 preview: "Git reset Git tag"
 permalink: "/articles/2019-05-04-git_reset_tag"
 date:   2019-05-04 09:56:00

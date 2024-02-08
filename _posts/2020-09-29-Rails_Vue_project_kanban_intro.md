@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 16 Rails專案開發 - 網站進度規劃"
+title:  "第12屆鐵人賽Day 16 Rails專案開發 - 網站進度規劃"
 preview: ""
 permalink: "/articles/2020-09-29"
 date:   2020-09-23 10:00:00

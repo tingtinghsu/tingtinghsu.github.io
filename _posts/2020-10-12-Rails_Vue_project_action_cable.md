@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 29 Rails專案開發 - Action Cable即時互動功能: 以edit和delete ticket為例"
+title:  "第12屆鐵人賽Day 29 Rails專案開發 - Action Cable即時互動功能: 以edit和delete ticket為例"
 preview: ""
 permalink: "/articles/2020-10-12"
 date:   2020-10-10 10:00:00

@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 24 Rails專案開發 - Vuex狀態管理(2) mapState、mapGetters、mapActions、mapMutations"
+title:  "第12屆鐵人賽Day 24 Rails專案開發 - Vuex狀態管理(2) mapState、mapGetters、mapActions、mapMutations"
 preview: ""
 permalink: "/articles/2020-10-07"
 date:   2020-10-03 10:00:00

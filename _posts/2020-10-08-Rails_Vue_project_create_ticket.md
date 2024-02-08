@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 25 Rails專案開發 - 新增ticket"
+title:  "第12屆鐵人賽Day 25 Rails專案開發 - 新增ticket"
 preview: ""
 permalink: "/articles/2020-10-08"
 date:   2020-10-04 10:00:00

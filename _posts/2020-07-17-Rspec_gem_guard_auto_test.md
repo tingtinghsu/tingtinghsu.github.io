@@ -11,7 +11,7 @@ tags:
 
 最近開始撰寫測試，我使用的套件是Rspec，每次測試時免不了都要打`Rspec`指令。
 但是工程師就是要開始培養`懶惰`的美德，
-經過仁傑大大介紹後，發現可以使用[guard](https://github.com/guard/guard)這個ruby套件，幫你每週省下好多時間。
+經過大大介紹後，發現可以使用[guard](https://github.com/guard/guard)這個ruby套件，幫我們每週省下好多時間。
 
 此篇文章的目的是想補充文件內容不足的部分，讓大家更容易安裝及使用guard！
 

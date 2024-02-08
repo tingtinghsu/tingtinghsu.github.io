@@ -1,5 +1,5 @@
 ---
-title:  "[Day07] CSS: scss.sass"
+title:  "css: scss.sass"
 preview: "css scss and sass"
 permalink: "/articles/2019-03-05-css_scss_sass"
 date:   2019-03-05 11:55:00

@@ -103,14 +103,14 @@ rvm | head -n 1
 
 Rails是使用Ruby語言所寫，按照MVC結構開發的開源Web應用框架，它是盡可能地保持簡單，使用最少的配置，並使實際的應用開發時的程式碼更少。以我家貓貓的話來說就是`工程師的好朋友`！
 
-```ruby
+```bash
 gem install rails --no-ri --no-rdoc
 ```
 
 安裝完後老話一句，要確認玩具版本夠不夠新，請輸入版本查詢指令。
 我的是Rails 5.1.6 (2018年8月)。  
 
-```ruby
+```bash
 rails --version
 ```
 

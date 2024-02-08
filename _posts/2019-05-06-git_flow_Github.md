@@ -1,5 +1,5 @@
 ---
-title:  "[Day29] Github介紹與Git Flow 開發流程"
+title:  "Github介紹與Git Flow 開發流程"
 preview: "Git senario"
 permalink: "/articles/2019-05-06-git_flow_Github"
 date:   2019-05-06 09:56:00

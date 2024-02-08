@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 30 Rails專案開發 - 網站部署 + 完賽感言"
+title:  "第12屆鐵人賽Day 30 Rails專案開發 - 網站部署 + 完賽感言"
 preview: ""
 permalink: "/articles/2020-10-13"
 date:   2020-10-10 10:00:00

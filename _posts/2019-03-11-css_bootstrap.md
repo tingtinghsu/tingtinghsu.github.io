@@ -1,5 +1,5 @@
 ---
-title:  "[Day10] CSS: bootstrap"
+title:  "css: bootstrap"
 preview: "css bootstrap"
 permalink: "/articles/2019-03-11-css_bootstrap"
 date:   2019-03-11 10:55:00

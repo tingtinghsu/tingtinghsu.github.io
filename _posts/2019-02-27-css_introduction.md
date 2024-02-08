@@ -1,5 +1,5 @@
 ---
-title:  "[Day02] CSS: 常用語法"
+title:  "css 常用語法"
 preview: "css introduction"
 permalink: "/articles/2019-02-27-css_introduction"
 date:   2019-02-27 10:55:00

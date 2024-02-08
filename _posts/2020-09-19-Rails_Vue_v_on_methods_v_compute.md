@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 6 Vue instance的computed屬性"
+title:  "第12屆鐵人賽Day 6 Vue instance的computed屬性"
 preview: ""
 permalink: "/articles/2020-09-19"
 date:   2020-09-17 09:56:00

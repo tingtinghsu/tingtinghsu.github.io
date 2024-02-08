@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 11 Vue元件單向傳遞: $emit 製作todo list"
+title:  "第12屆鐵人賽Day 11 Vue元件單向傳遞: $emit 製作todo list"
 preview: ""
 permalink: "/articles/2020-09-24"
 date:   2020-09-21 09:58:00

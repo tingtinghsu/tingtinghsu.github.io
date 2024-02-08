@@ -1,5 +1,5 @@
 ---
-title:  "[Day01] CSS: 標籤位置與選取器"
+title:  "css 標籤位置與選取器"
 preview: "css selector"
 permalink: "/articles/2019-02-26-css_selector"
 date:   2019-02-26 10:55:00

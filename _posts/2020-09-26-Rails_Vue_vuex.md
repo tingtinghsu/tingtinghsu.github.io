@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 13 Vuex狀態管理"
+title:  "第12屆鐵人賽Day 13 Vuex狀態管理"
 preview: ""
 permalink: "/articles/2020-09-26"
 date:   2020-09-23 09:58:00

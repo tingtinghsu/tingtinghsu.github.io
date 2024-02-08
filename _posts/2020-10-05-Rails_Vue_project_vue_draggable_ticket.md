@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 22 Rails專案開發 - Vue draggable套件拖拉ticket"
+title:  "第12屆鐵人賽Day 22 Rails專案開發 - Vue draggable套件拖拉ticket"
 preview: ""
 permalink: "/articles/2020-10-05"
 date:   2020-10-03 10:00:00

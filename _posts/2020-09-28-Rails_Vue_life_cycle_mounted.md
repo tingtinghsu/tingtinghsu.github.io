@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 15 Vue instance 的 mounted()"
+title:  "第12屆鐵人賽Day 15 Vue instance 的 mounted()"
 preview: ""
 permalink: "/articles/2020-09-28"
 date:   2020-09-23 10:00:00

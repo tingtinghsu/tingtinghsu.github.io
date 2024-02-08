@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 26 Rails專案開發 - 新增ticket（介紹v-if語法）"
+title:  "第12屆鐵人賽Day 26 Rails專案開發 - 新增ticket（介紹v-if語法）"
 preview: ""
 permalink: "/articles/2020-10-09"
 date:   2020-10-05 10:00:00

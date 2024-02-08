@@ -1,5 +1,5 @@
 ---
-title:  "[Day28] Git rebase 修改commit歷史記錄"
+title:  "Git rebase 修改commit歷史記錄"
 preview: "Git rebase"
 permalink: "/articles/2019-05-05-git_rebase"
 date:   2019-05-05 09:56:00

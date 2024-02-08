@@ -1,5 +1,5 @@
 ---
-title:  "[2020] 第12屆鐵人賽Day 10 Vue元件裡由內而外的事件單向傳遞: $emit"
+title:  "第12屆鐵人賽Day 10 Vue元件裡由內而外的事件單向傳遞: $emit"
 preview: ""
 permalink: "/articles/2020-09-23"
 date:   2020-09-20 09:58:00
