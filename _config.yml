@@ -5,6 +5,7 @@ url: https://tingtinghsu.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
+future: true
 # cover_image: /bg.jpeg
 
 # Gems
