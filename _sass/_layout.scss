@@ -53,6 +53,10 @@ footer {
 }
 
 @media (min-width: $lg-width) {
+  .content {
+    width: 75%;
+  }
+
   .sidebar-right {
     display: block;
   }
