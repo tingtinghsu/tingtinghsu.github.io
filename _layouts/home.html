@@ -5,8 +5,55 @@ layout: default
 {% include home-header.html %}
 
 <div class="home-controls">
-  <a href="/dates/" class="date-filter-btn">📅 Date Archive</a>
-  <a href="/tags/" class="tag-filter-btn">🏷️ Tags</a>
+  <button id="date-toggle-btn" class="date-filter-btn">📅 Date</button>
+  <button id="tag-toggle-btn" class="tag-filter-btn">🏷️ Tags</button>
+</div>
+
+<!-- Date Panel -->
+<div id="date-panel" class="filter-panel" style="display: none;">
+  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  <div class="filter-header">
+    <h2>按日期瀏覽 / Browse by Date</h2>
+    <button class="close-btn" onclick="document.getElementById('date-panel').style.display='none'">✕</button>
+  </div>
+  <div class="filter-content">
+    {% for year_group in posts_by_year %}
+      <div class="date-year">
+        <h3>{{ year_group.name }}</h3>
+        <div class="date-months">
+          {% assign posts_by_month = year_group.items | group_by_exp: "post", "post.date | date: '%m'" | reverse %}
+          {% for month_group in posts_by_month %}
+            {% assign first_post = month_group.items | first %}
+            {% assign month_name = first_post.date | date: "%B" %}
+            <a href="/dates/#{{ year_group.name }}-{{ month_group.name }}" class="date-link">
+              {{ month_name }} ({{ month_group.size }})
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Tags Panel -->
+<div id="tag-panel" class="filter-panel" style="display: none;">
+  {% assign all_tags = "" | split: "," %}
+  {% for post in site.posts %}
+    {% for tag in post.tags %}
+      {% assign all_tags = all_tags | push: tag %}
+    {% endfor %}
+  {% endfor %}
+  {% assign unique_tags = all_tags | sort | uniq %}
+
+  <div class="filter-header">
+    <h2>按標籤瀏覽 / Browse by Tag</h2>
+    <button class="close-btn" onclick="document.getElementById('tag-panel').style.display='none'">✕</button>
+  </div>
+  <div class="filter-content tags-grid">
+    {% for tag in unique_tags %}
+      <a href="/tag/{{ tag | slugify }}/" class="tag-link">{{ tag }}</a>
+    {% endfor %}
+  </div>
 </div>
 
 <div class="posts">
@@ -48,3 +95,37 @@ layout: default
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+<script>
+  const dateToggleBtn = document.getElementById('date-toggle-btn');
+  const tagToggleBtn = document.getElementById('tag-toggle-btn');
+  const datePanel = document.getElementById('date-panel');
+  const tagPanel = document.getElementById('tag-panel');
+
+  dateToggleBtn.addEventListener('click', () => {
+    if (datePanel.style.display === 'none') {
+      datePanel.style.display = 'block';
+      tagPanel.style.display = 'none';
+    } else {
+      datePanel.style.display = 'none';
+    }
+  });
+
+  tagToggleBtn.addEventListener('click', () => {
+    if (tagPanel.style.display === 'none') {
+      tagPanel.style.display = 'block';
+      datePanel.style.display = 'none';
+    } else {
+      tagPanel.style.display = 'none';
+    }
+  });
+
+  // Close panels when clicking outside
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.home-controls') &&
+        !e.target.closest('.filter-panel')) {
+      datePanel.style.display = 'none';
+      tagPanel.style.display = 'none';
+    }
+  });
+</script>
