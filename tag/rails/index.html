@@ -1,18 +1,4 @@
 ---
-layout: default
+layout: tag
 title: rails
 ---
-<div>Tag:<br><br> <div class="tag" align="center">rails</div></div> <br>
-<div class="posts">
-  {% for post in site.tags.rails %}
-    <h4 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}  
-      </a>
-    </h4>
-    <small class="post-date">{{ post.date | date_to_string }}
-    </small>
-   {% endfor %}
-</div>
-
-<div class="home" align="center"><a href="{{ site.baseurl }}/">Home</a></div><br>
