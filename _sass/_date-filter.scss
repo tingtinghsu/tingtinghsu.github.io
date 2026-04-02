@@ -1,0 +1,46 @@
+// Home controls - Date and Tag navigation buttons
+//
+// Styles for navigation buttons on home page
+
+.home-controls {
+  margin-bottom: var(--spacer-2);
+  display: flex;
+  gap: var(--spacer);
+  flex-wrap: wrap;
+}
+
+.date-filter-btn,
+.tag-filter-btn {
+  background-color: rgba(144, 238, 144, 0.4);
+  border: 2px solid #90EE90;
+  padding: 0.5em 1.2em;
+  border-radius: 20px;
+  font-size: 1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  color: #333;
+  text-decoration: none;
+  display: inline-block;
+
+  &:hover {
+    background-color: rgba(144, 238, 144, 0.6);
+    border-color: #7CDD7C;
+    text-decoration: none;
+  }
+
+  &:active {
+    transform: scale(0.98);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    color: #90EE90;
+    border-color: #66bb6a;
+    background-color: rgba(102, 187, 106, 0.2);
+
+    &:hover {
+      background-color: rgba(102, 187, 106, 0.35);
+      border-color: #81c784;
+    }
+  }
+}

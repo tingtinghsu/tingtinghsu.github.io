@@ -22,6 +22,38 @@
   }
 }
 
+// Post header with back button
+.post-header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--spacer-2);
+  margin-bottom: var(--spacer-2);
+}
+
+.post-header-wrapper > div {
+  flex: 1;
+}
+
+.post-back-btn {
+  background-color: transparent;
+  border: 1px solid var(--border-color);
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  font-size: 0.95em;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  color: inherit;
+  white-space: nowrap;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    background-color: var(--border-color);
+    text-decoration: none;
+  }
+}
+
 // Blog post or page title
 .page-title,
 .post-title {
